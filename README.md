@@ -1,7 +1,14 @@
 <div align="center">
 
 👋 Hi there
-💻 Software Developer
+
+💻 Working with C, C++, Java, C#, .NET, and JavaScript
+
+📚 Continuously learning new technologies and best practices
+
+🤝 Open to collaboration and new opportunities
+
+📫 Reach me: tmikhaliev@gmail.com
 
 <br>
 
