@@ -17,6 +17,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,js,html,css,nodejs&theme=dark" />
 <br>
 <img src="https://skillicons.dev/icons?i=sqlite,cmake,git,github,docker,postman,linux&theme=dark" />
+<br>
 📊 GitHub Stats
 <br>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=2thooes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
