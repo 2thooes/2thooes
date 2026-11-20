@@ -14,9 +14,7 @@
 
 💻 Tech Stack
 <br>
-<img src="https://skillicons.dev/icons?i=rust,c,cpp,css,html,linux&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=cpp,rust,sqlite,html,css,nodejs,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=rust,c,cpp,css,html,nodejs,sqlite,docker,linux&theme=dark" />
 <br>
 📊 GitHub Stats
 <br>
