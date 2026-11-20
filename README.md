@@ -24,5 +24,4 @@
 <br>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=2thooes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 <br>
-<img src="https://komarev.com/ghpvc/?username=2thooes&color=0e75b6&style=for-the-badge" />
 </div>
